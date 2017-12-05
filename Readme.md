@@ -1,4 +1,4 @@
-# Descriptive Statistics Final Project
+# Computer Descriptive Statistics for a card-drawing task to demonstrate major concepts in descriptive statistics  
 
 Note: This course is currently only available for free, so it's not possibleto submit your work for review. 
 
